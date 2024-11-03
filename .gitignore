@@ -1,0 +1,15 @@
+# Frontend
+frontend/node_modules/
+frontend/yarn.lock
+frontend/build/
+
+# Backend
+backend/.env
+backend/__pycache__/
+backend/*.log
+
+# IDE Specific
+.vscode/
+.idea/
+
+.env
